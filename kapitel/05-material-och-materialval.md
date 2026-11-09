@@ -29,7 +29,7 @@ Lägg märke till skillnaden mellan **hållfasthet** och **styvhet**. Ett materi
 
 ### Ungefärliga materialdata
 
-Värdena nedan är hämtade från öppna källor. De är förenklade, varierar med dimension, leverans och källa, och ska bara användas för att jämföra material och för övningarna i den här boken. Vid proven i kursen använder du tabellsamlingen som delas ut i klassrummet.
+Värdena nedan är hämtade från öppna källor. De är förenklade, varierar med dimension, leverans och källa, och ska bara användas för att jämföra material och för exemplen i den här boken. Vid proven i kursen använder du tabellsamlingen som delas ut i klassrummet.
 
 | Material | Sträckgräns Re eller Rp0,2 (N/mm²) | Brottgräns Rm (N/mm²) | E-modul (GPa) | Densitet (kg/m³) |
 |---|---|---|---|---|
@@ -101,28 +101,6 @@ Kvalitet betyder att produkten håller det som lovats. Kvalitet handlar också o
 4. Vad är krypning och i vilket material är det särskilt viktigt att tänka på det?
 5. Ge två sätt som materialval påverkar en produkts miljöpåverkan.
 6. Hur kan valet av tillverkningsmetod hänga ihop med hur många produkter som ska göras?
-
-## Övningar
-
-**Grund 1.** En massiv stång är 2 m lång med diametern 20 mm. Hur mycket väger den i stål? I aluminium? Använd 7850 och 2690 kg/m³.
-
-<details><summary>Svar</summary>
-
-Stål: 4,9 kg. Aluminium: 1,7 kg.
-
-</details>
-
-**Grund 2.** Vilket material skulle du välja för ett utomhusräcke vid havet? Motivera.
-
-**Vidare 3.** En regel av C24, 45 × 95 mm, belastas i tryck längs fibrerna. Hur stor kraft motsvarar det karakteristiska värdet 21 N/mm²? Varför får du inte använda hela kraften i en verklig konstruktion?
-
-<details><summary>Svar</summary>
-
-F = 21 · 45 · 95 = 89,8 kN. Det karakteristiska värdet är ett hållfasthetsvärde utan säkerhetsfaktorer. En verklig konstruktion dimensioneras med en lägre tillåten spänning, och dessutom kan regeln knäckas.
-
-</details>
-
-**Utmaning 4.** Gör en materialjämförelse för katapultens arm: trä, aluminium och PLA. Ställ upp kriterier, vikter och en beslutsmatris och motivera ditt val.
 
 ## Koppling till projektet
 

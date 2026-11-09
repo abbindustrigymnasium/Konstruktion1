@@ -1,6 +1,6 @@
 # Konstruktion nivå 1
 
-Här lär du dig hur en konstruktion går från idé och skiss till en fungerande produkt. Du arbetar med CAD i Inventor, ritningar och standarder, väljer material och beräknar hur mycket en detalj tål. Kunskaperna använder du i praktiska projekt, från en katapult till chassit på en robotmopp. Kursen har kurskoden KONR1000X och omfattar 100 poäng.
+Här lär du dig hur en konstruktion går från idé och skiss till en fungerande produkt. Du arbetar med CAD i Onshape, ritningar och standarder, väljer material och beräknar hur mycket en detalj tål. Kunskaperna använder du i praktiska projekt, från en katapult till chassit på en robotmopp. Kursen har kurskoden KONR1000X och omfattar 100 poäng.
 
 ## Kurspresentation
 
@@ -8,7 +8,7 @@ En översikt över kursen, dess delar och projekt: [Konstruktion 1 - Kurspresent
 
 ## Så använder du boken
 
-Läs kapitlen i ordning, de följer kursens projekt. Varje kapitel har genomräknade exempel, begrepp, frågor att testa dig själv med och övningar märkta **Grund**, **Vidare** och **Utmaning**. Svaren på räkneuppgifterna hittar du under "Svar", men försök räkna själv först. Under varje projekt finns en egen sida med vad du ska göra och hur du bedöms.
+Läs kapitlen i ordning, de följer kursens projekt. Varje kapitel har genomräknade exempel, begrepp och frågor att testa dig själv med. Under varje projekt finns en egen sida med vad du ska göra och hur du bedöms.
 
 Materialvärden i boken är ungefärliga och hämtade från öppna källor. Tabellsamlingen som delas ut i klassrummet är den som gäller på provet.
 
@@ -16,7 +16,7 @@ Materialvärden i boken är ungefärliga och hämtade från öppna källor. Tabe
 
 1. [Konstruktionsprocessen](kapitel/01-konstruktionsprocessen.md)
 2. [Moment, energi och kastbana](kapitel/02-moment-energi-kastbana.md)
-3. [CAD i Inventor](kapitel/03-cad-i-inventor.md)
+3. [CAD i Onshape](kapitel/03-cad-i-onshape.md)
 4. [Ritningar, standarder och normer](kapitel/04-ritningar-standarder.md)
 5. [Material och materialval](kapitel/05-material-och-materialval.md)
 6. [Drag, tryck och Hookes lag](kapitel/06-drag-tryck-hookes-lag.md)

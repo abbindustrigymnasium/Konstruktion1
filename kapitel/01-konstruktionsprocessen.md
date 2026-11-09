@@ -104,28 +104,6 @@ Skriv ner vad ni gör medan ni gör det. En skiss med datum och några ord om va
 5. Ge ett exempel på när miljö och kostnad står mot varandra i en konstruktion.
 6. Beskriv ett tillfälle då ett senare steg i processen kan tvinga dig att ändra ett tidigare.
 
-## Övningar
-
-**Grund.** Skriv om kraven så att de går att kontrollera: "Hållaren ska vara stabil", "Bilen ska vara liten", "Maskinen ska sortera bra".
-
-**Grund.** Räkna ut summorna i en beslutsmatris med vikterna 2, 5 och 3 och poängen 4, 3 och 2 för koncept X.
-
-<details><summary>Svar</summary>
-
-2 · 4 + 5 · 3 + 3 · 2 = 8 + 15 + 6 = 29.
-
-</details>
-
-**Vidare.** Ändra vikten för "Träffsäkerhet" i exemplet ovan från 4 till 2. Räkna om summorna. Vilket koncept vinner nu?
-
-<details><summary>Svar</summary>
-
-A: 9 + 8 + 6 + 12 = 35. B: 12 + 6 + 8 + 6 = 32. C: 15 + 4 + 4 + 6 = 29. Koncept A vinner fortfarande.
-
-</details>
-
-**Utmaning.** Välj en produkt hemma som gått sönder i förtid. Beskriv vad du tror att konstruktören prioriterade och föreslå en ändring som hade förlängt livslängden.
-
 ## Koppling till projektet
 
 Hela processen använder du i [Katapult](../projekt/katapult/README.md), där du går från skisser och beslutsmatris till bygge och test. Samma arbetssätt återkommer i [Bygg 2.0](../projekt/bygg-2-0/README.md), [Robotmopp](../projekt/robotmopp/README.md) och [Sort My Brick](../projekt/sort-my-brick/README.md).

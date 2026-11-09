@@ -157,58 +157,6 @@ Värdet ligger nära det som gäller för stål, så provstaven är sannolikt av
 6. Varför får Hookes lag bara användas i det elastiska området?
 7. Vilket problem kan uppstå för en lång, tunn pelare som belastas med tryck?
 
-## Övningar
-
-**Grund 1.** En stång med rektangulärt tvärsnitt 12 × 20 mm belastas med 18 kN. Beräkna spänningen.
-
-<details><summary>Svar</summary>
-
-75 N/mm²
-
-</details>
-
-**Grund 2.** En tråd med diametern 6 mm belastas med 2,5 kN. Beräkna spänningen.
-
-<details><summary>Svar</summary>
-
-88 N/mm²
-
-</details>
-
-**Grund 3.** En 3 m lång stång förlängs 1,5 mm. Vad är töjningen?
-
-<details><summary>Svar</summary>
-
-0,0005 (0,05 %)
-
-</details>
-
-**Vidare 4.** En stång med diametern 16 mm tål spänningen 120 N/mm². Vilken är den största kraft den kan belastas med?
-
-<details><summary>Svar</summary>
-
-F = σ · A = 120 · 201 = 24,1 kN
-
-</details>
-
-**Vidare 5.** En ståltråd med diametern 2 mm är 3 m lång och belastas med 300 N. Beräkna spänning och förlängning. E = 210 000 N/mm².
-
-<details><summary>Svar</summary>
-
-σ = 95,5 N/mm². ΔL = 1,36 mm.
-
-</details>
-
-**Utmaning 6.** En aluminiumstång ska bära 9 kN med högst 0,1 % töjning. Vilken minsta diameter krävs? E = 69 000 N/mm².
-
-<details><summary>Svar</summary>
-
-σ = E · ε = 69 N/mm². A = 9000 / 69 = 130,4 mm². d = 12,9 mm.
-
-</details>
-
-Räkna också övningsuppgifterna under avsnitten om mekanisk spänning, dragprov och Hookes lag i [kompendiet](../H%C3%A5llfasthetsl%C3%A4ra/02.%20H%C3%A5llfasthetsl%C3%A4ra%20kompendium.docx).
-
 ## Koppling till projektet
 
 Kapitlet täcker första delen av momentet [Hållfasthetslära](../projekt/hallfasthetslara/README.md). Stödet för lektionerna finns i filmerna [Intro](../H%C3%A5llfasthetsl%C3%A4ra/01.%20H%C3%A5llfasthetsl%C3%A4ra%20intro.mp4) och [Del 2: dragprov, töjning](../H%C3%A5llfasthetsl%C3%A4ra/06.%20H%C3%A5llf%20del%202%2C%20dragprov%2C%20t%C3%B6jning%20mm.mp4). Lösningar till kompendiet finns i [Lösningar 1-47](../H%C3%A5llfasthetsl%C3%A4ra/L%C3%B6sningar%201-47.pdf).

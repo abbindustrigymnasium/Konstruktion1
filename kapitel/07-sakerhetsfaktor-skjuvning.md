@@ -153,58 +153,6 @@ d = √(4 · 62,5 / π) = 8,9 mm     → välj till exempel 10 mm
 5. Vilken yta skjuvas i en limfog? I en tapp i ett tvåskärigt förband?
 6. När använder du faktorn 0,6, och när ska du inte använda den?
 
-## Övningar
-
-**Grund 1.** Spänningen i en detalj är 118 N/mm², och materialet har Re = 355 N/mm². Beräkna sträcksäkerheten.
-
-<details><summary>Svar</summary>
-
-nS = 3,0
-
-</details>
-
-**Grund 2.** Spänningen är 80 N/mm² och Rm = 500 N/mm². Beräkna brottsäkerheten.
-
-<details><summary>Svar</summary>
-
-nB = 6,25
-
-</details>
-
-**Grund 3.** En limfog har måtten 25 × 50 mm och limmet tål 5,0 N/mm². Vilken kraft tål fogen?
-
-<details><summary>Svar</summary>
-
-F = 6250 N
-
-</details>
-
-**Vidare 4.** Ett runt stag ska bära 15 kN med nS = 3,0 och Re = 355 N/mm². Beräkna minsta diameter.
-
-<details><summary>Svar</summary>
-
-σtill = 118 N/mm². A = 127 mm². d = 12,7 mm, välj till exempel 14 mm.
-
-</details>
-
-**Vidare 5.** Fem nitar i ett enskärigt förband ska bära sammanlagt 10 kN. Re = 280 N/mm², nS = 2,0. Beräkna nitarnas diameter.
-
-<details><summary>Svar</summary>
-
-τtill = 84 N/mm². As per nit = 23,8 mm². d = 5,5 mm.
-
-</details>
-
-**Utmaning 6.** En tapp i ett tvåskärigt förband ska bära 9,0 kN. Re = 355 N/mm², nS = 2,5. Beräkna diametern.
-
-<details><summary>Svar</summary>
-
-τtill = 85,2 N/mm². As, total = 105,6 mm². d = 8,2 mm.
-
-</details>
-
-Räkna också kompendiets uppgifter om säkerhetsfaktor och skjuvning i [kompendiet](../H%C3%A5llfasthetsl%C3%A4ra/02.%20H%C3%A5llfasthetsl%C3%A4ra%20kompendium.docx).
-
 ## Koppling till projektet
 
 Kapitlet hör till momentet [Hållfasthetslära](../projekt/hallfasthetslara/README.md). Se filmen [Lektion 3: säkerhetsfaktor](../H%C3%A5llfasthetsl%C3%A4ra/07.%20H%C3%A5llf%20lektion%203%2C%20s%C3%A4kerhetsfaktor%20mm.mp4). Skjuvning återkommer när du dimensionerar axeln i [Katapult](../projekt/katapult/README.md).

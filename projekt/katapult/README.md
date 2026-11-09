@@ -9,7 +9,7 @@ Du och din grupp konstruerar en katapult som ska kasta ett litet föremål så l
 **Kriterier i vanliga ord.** Du visar att du
 
 - förstår konstruktionsprocessens delar och hur de samverkar
-- följer standarder och normer och använder verktyg som Inventor och verkstadens verktyg
+- följer standarder och normer och använder verktyg som Onshape och verkstadens verktyg
 - gör beräkningar som är tydliga och korrekta
 - dokumenterar och redovisar arbetet
 
@@ -19,7 +19,7 @@ Du och din grupp konstruerar en katapult som ska kasta ett litet föremål så l
 
 - [Kapitel 1: Konstruktionsprocessen](../../kapitel/01-konstruktionsprocessen.md)
 - [Kapitel 2: Moment, energi och kastbana](../../kapitel/02-moment-energi-kastbana.md)
-- [Kapitel 3: CAD i Inventor](../../kapitel/03-cad-i-inventor.md)
+- [Kapitel 3: CAD i Onshape](../../kapitel/03-cad-i-onshape.md)
 - [Kapitel 4: Ritningar, standarder och normer](../../kapitel/04-ritningar-standarder.md)
 - [Kapitel 5: Material och materialval](../../kapitel/05-material-och-materialval.md)
 
@@ -27,7 +27,7 @@ Du och din grupp konstruerar en katapult som ska kasta ett litet föremål så l
 
 - Ta fram skisser och välj ett koncept, till exempel en slunga med vridarm eller en motviktskatapult.
 - Gör enkla beräkningar: hävstång och moment, lagrad energi och kastbana (vinkel och kastlängd).
-- Modellera katapulten i Inventor med delar, assembly och en ritning.
+- Modellera katapulten i Onshape med delar, assembly och en ritning.
 - Välj material och motivera valet, gör en materiallista och bygg katapulten.
 - Testa kastlängd och precision, jämför med dina beräkningar och förbättra konstruktionen.
 - Dokumentera arbetet med bilder, beräkningar och testresultat och redovisa för klassen.
@@ -40,7 +40,7 @@ Utifrån projektbeskrivningen ska du och gruppen visa upp:
 |---|---|
 | Skisser och konceptval | Era idéer och hur ni valde koncept |
 | Beräkningar | Hävstång och moment, lagrad energi och kastbana |
-| CAD | Delar, assembly och en ritning i Inventor |
+| CAD | Delar, assembly och en ritning i Onshape, med dokumentet delat med läraren |
 | Materialval och materiallista | Motiverat val av material |
 | Byggd katapult | Tillverkad utifrån ritningen |
 | Test och förbättring | Kastlängd och precision jämfört med beräkningarna |
@@ -53,7 +53,7 @@ Utifrån projektbeskrivningen ska du och gruppen visa upp:
 | 1 | Introduktion till katapultprojektet: krav, grupper och olika katapulttyper. Brainstorma och skissa idéer i gruppen. |
 | 2 | Genomgång av hävstång, moment och lagrad energi. Välj koncept med hjälp av en enkel beslutsmatris. |
 | 3 | Gör de första beräkningarna för ert koncept, hävarmsförhållande och kastbana, och bestäm huvudmått. |
-| 4 | Modellera katapultens delar i Inventor, till exempel ram, arm och axel, utifrån era huvudmått. |
+| 4 | Modellera katapultens delar i Onshape, till exempel ram, arm och axel, utifrån era huvudmått. |
 | 5 | Sätt ihop modellen i en assembly och gör en ritning. Välj material och skriv en materiallista. |
 | 6 | Bygg: tillverka ram och arm i verkstaden utifrån ritningen. Dokumentera med bilder. |
 
@@ -61,7 +61,7 @@ Test, förbättring, redovisning och tävling ingår enligt projektbeskrivningen
 
 ## Bedömning
 
-Du bedöms på hur du arbetar dig igenom konstruktionsprocessen och hur stegen hänger ihop, hur du använder Inventor och verkstadens verktyg, hur tydliga och korrekta dina beräkningar är och hur väl du dokumenterar och redovisar arbetet. Tävlingsresultatet i sig avgör inte betyget.
+Du bedöms på hur du arbetar dig igenom konstruktionsprocessen och hur stegen hänger ihop, hur du använder Onshape och verkstadens verktyg, hur tydliga och korrekta dina beräkningar är och hur väl du dokumenterar och redovisar arbetet. Tävlingsresultatet i sig avgör inte betyget.
 
 ## Material
 

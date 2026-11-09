@@ -168,66 +168,6 @@ Största momentet finns där tvärkraften byter tecken.
 5. Varför måste du vara försiktig med enheterna Nm och Nmm?
 6. Vad visar tvärkraftsdiagrammet?
 
-## Övningar
-
-**Grund 1.** Beräkna böjmotståndet för en balk 30 × 60 mm, på högkant och platt.
-
-<details><summary>Svar</summary>
-
-Högkant 18 000 mm³, platt 9000 mm³.
-
-</details>
-
-**Grund 2.** Beräkna böjmotståndet för en rundstång med 30 mm diameter.
-
-<details><summary>Svar</summary>
-
-2651 mm³
-
-</details>
-
-**Grund 3.** En fast inspänd balk belastas med 40 kg, 0,8 m från väggen. Beräkna böjmomentet.
-
-<details><summary>Svar</summary>
-
-F = 393 N. Mb = 314 Nm.
-
-</details>
-
-**Grund 4.** En fritt upplagd balk är 2,0 m lång och belastas med 1200 N på mitten. Beräkna böjmomentet.
-
-<details><summary>Svar</summary>
-
-600 Nm
-
-</details>
-
-**Vidare 5.** Ett rör med ytterdiameter 50 mm och innerdiameter 42 mm är fast inspänt och belastas med 1000 N, 1200 mm ut. Beräkna böjspänningen.
-
-<details><summary>Svar</summary>
-
-Wb = 6162 mm³. σb = 195 N/mm².
-
-</details>
-
-**Vidare 6.** En fritt upplagd balk, spännvidd 1,6 m, belastas med 4,0 kN jämnt utbredd last. Bredden är 30 mm. Re = 355 N/mm², nS = 2,5. Beräkna höjden.
-
-<details><summary>Svar</summary>
-
-Mb = 800 000 Nmm. σtill = 142 N/mm². Wb = 5634 mm³. h = 33,6 mm, välj 35 mm.
-
-</details>
-
-**Utmaning 7.** En balk ligger på två stöd med avståndet 3,0 m. Lasten 2000 N verkar 1,0 m från vänster stöd och 1000 N verkar 2,5 m från vänster stöd. Beräkna stödkrafterna och det största momentet.
-
-<details><summary>Svar</summary>
-
-RA = RB = 1500 N. Mb max = 1500 Nm vid 1,0 m.
-
-</details>
-
-Räkna också övningsuppgifterna om böjning i [kompendiet](../H%C3%A5llfasthetsl%C3%A4ra/02.%20H%C3%A5llfasthetsl%C3%A4ra%20kompendium.docx).
-
 ## Koppling till projektet
 
 Kapitlet hör till [Hållfasthetslära](../projekt/hallfasthetslara/README.md), och filmerna [Lektion 4](../H%C3%A5llfasthetsl%C3%A4ra/08.%20H%C3%A5llf%20lektion%204.mp4), [Lektion 5](../H%C3%A5llfasthetsl%C3%A4ra/09.%20H%C3%A5llf%20lektion%205.mp4) och [Lektion 6](../H%C3%A5llfasthetsl%C3%A4ra/10.%20H%C3%A5llf%20lektion%206.mp4) går igenom hur man räknar. Lösningar finns i [Lösningar 48-66](../H%C3%A5llfasthetsl%C3%A4ra/L%C3%B6sningar%2048-66.pdf). Tankesättet är användbart för profilerna i [Smådjursställning](../projekt/smadjursstallning/README.md) och för kastarmen i [Katapult](../projekt/katapult/README.md).

@@ -138,48 +138,6 @@ Fråga dig alltid om svaret verkar rimligt. Modellen ovan bortser från luftmots
 5. Vid vilken vinkel kastar du längst från markhöjd om luftmotståndet försummas? Varför?
 6. Ge två skäl till att en verklig katapult kan kasta kortare än formeln säger.
 
-## Övningar
-
-**Grund 1.** En kraft på 40 N verkar 0,25 m från en axel. Beräkna momentet.
-
-<details><summary>Svar</summary>
-
-10 Nm
-
-</details>
-
-**Grund 2.** En motvikt på 5,0 kg sjunker 0,20 m. Hur stor energi avges?
-
-<details><summary>Svar</summary>
-
-E = 5,0 · 9,82 · 0,20 = 9,8 J
-
-</details>
-
-**Vidare 3.** En hävstång har momentarmen 0,05 m på den sida där kraften 100 N verkar och 0,30 m på den andra sidan. Hur stor kraft får du ut på den långa sidan?
-
-<details><summary>Svar</summary>
-
-100 · 0,05 / 0,30 = 17 N
-
-</details>
-
-**Vidare 4.** Du lyckas ge en boll på 50 g rörelseenergin 2,0 J. Hur stor blir farten och kastlängden från markhöjd vid 45°?
-
-<details><summary>Svar</summary>
-
-v = √(2 · 2,0 / 0,050) = 8,9 m/s. R = 8,9² / 9,82 = 8,1 m.
-
-</details>
-
-**Utmaning 5.** Du vill kasta en kula på 30 g 10 m från markhöjd vid 45°. Verkningsgraden antas vara 30 %. Hur stor energi måste lagras? Hur långt måste en motvikt på 4,0 kg sjunka?
-
-<details><summary>Svar</summary>
-
-v² = R · g = 98,2 m²/s². Ek = 0,5 · 0,030 · 98,2 = 1,47 J. E = 1,47 / 0,30 = 4,9 J. h = 4,9 / (4,0 · 9,82) = 0,125 m.
-
-</details>
-
 ## Koppling till projektet
 
 I [Katapult](../projekt/katapult/README.md) räknar du på hävarmsförhållande, lagrad energi och kastbana innan du bestämmer huvudmåtten. När ni testat katapulten jämför ni resultaten med era beräkningar.
@@ -190,4 +148,4 @@ I [Katapult](../projekt/katapult/README.md) räknar du på hävarmsförhållande
 - [Moment (Wikipedia, engelska)](https://en.wikipedia.org/wiki/Torque)
 - [Kastparabel och kastbana (Wikipedia, engelska)](https://en.wikipedia.org/wiki/Projectile_motion)
 
-[← Föregående](01-konstruktionsprocessen.md) | [Innehåll](../README.md) | [Nästa →](03-cad-i-inventor.md)
+[← Föregående](01-konstruktionsprocessen.md) | [Innehåll](../README.md) | [Nästa →](03-cad-i-onshape.md)

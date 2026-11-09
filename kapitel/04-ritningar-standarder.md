@@ -17,11 +17,11 @@ En ritning innehåller:
 - **Toleranser** som anger hur mycket måtten får avvika.
 - **Ritningshuvud** med namn, ritningsnummer, skala, material och vem som ritat.
 
-I Inventor gör du en ny ritning, placerar delen med **Base View** och tar fram fler vyer med **Projected View**. Med **Section View** får du en snittbild och kan visa hur delen ser ut inuti.
+I Onshape högerklickar du på delen i Parts-listan och väljer **Create drawing of**. Du väljer en mall och kan låta Onshape föreslå vyer. Fler vyer tar du fram med **Projected view**, och med **Section view** får du en snittbild som visar hur delen ser ut inuti.
 
 ### Projektionsmetod
 
-Vyerna ska placeras på ett bestämt sätt i förhållande till varandra. I Europa används oftast **projektionsmetod 1** (first-angle): vyn sedd från vänster placeras till höger om framvyn. I USA används oftast metod 3, där vyerna ligger på motsatt sida. Metoden anges med en liten symbol i ritningshuvudet. Inventor kan ställas in för båda, så kontrollera inställningen.
+Vyerna ska placeras på ett bestämt sätt i förhållande till varandra. I Europa används oftast **projektionsmetod 1** (first-angle): vyn sedd från vänster placeras till höger om framvyn. I USA används oftast metod 3, där vyerna ligger på motsatt sida. Metoden anges med en liten symbol i ritningshuvudet. I Onshape styrs metoden av ritningsmallen: en ISO-mall ger metod 1 och millimeter, och en ANSI-mall ger metod 3. Välj en ISO-mall, och kontrollera att symbolen i ritningshuvudet stämmer.
 
 ### Linjer, format och skala
 
@@ -126,42 +126,6 @@ Standardblad är ofta skyddade och säljs av standardiseringsorganisationerna. D
 5. Vad är skillnaden mellan en standard och en lag?
 6. Vad betyder det att en standard är märkt SS-EN ISO?
 
-## Övningar
-
-**Grund 1.** Ett mått är 80 ± 0,5 mm. Vad är minsta och största tillåtna mått?
-
-<details><summary>Svar</summary>
-
-79,5 mm och 80,5 mm.
-
-</details>
-
-**Grund 2.** En ritning har skalan 1:10. Ett mått på ritningen är 72 mm. Hur långt är det i verkligheten?
-
-<details><summary>Svar</summary>
-
-720 mm.
-
-</details>
-
-**Vidare 3.** Laserskäraren tar bort 0,15 mm. Du vill att en tapp ska bli 6,00 mm bred. Vilket mått ritar du?
-
-<details><summary>Svar</summary>
-
-6,15 mm.
-
-</details>
-
-**Vidare 4.** Ett hål är 12,000–12,018 mm och en axel 11,984–11,994 mm. Beräkna minsta och största spel.
-
-<details><summary>Svar</summary>
-
-Minsta spel: 12,000 − 11,994 = 0,006 mm. Största spel: 12,018 − 11,984 = 0,034 mm.
-
-</details>
-
-**Utmaning 5.** Rita din katapultarm på en A4-ritning i Inventor med framvy, sidovy, mått och ritningshuvud. Fundera på vilka mått som kräver tolerans och motivera.
-
 ## Koppling till projektet
 
 I [Katapult](../projekt/katapult/README.md) tar du fram en ritning som används i verkstaden, och i [Smådjursställning](../projekt/smadjursstallning/README.md) utgår du från ritningar och standardiserade profiler. Passningar för axlar och fästen använder du när du konstruerar chassit i [Robotmopp](../projekt/robotmopp/README.md).
@@ -175,4 +139,4 @@ I [Katapult](../projekt/katapult/README.md) tar du fram en ritning som används 
 - [ISO (Wikipedia, engelska)](https://en.wikipedia.org/wiki/International_Organization_for_Standardization)
 - [Arbetsmiljöverket](https://www.av.se)
 
-[← Föregående](03-cad-i-inventor.md) | [Innehåll](../README.md) | [Nästa →](05-material-och-materialval.md)
+[← Föregående](03-cad-i-onshape.md) | [Innehåll](../README.md) | [Nästa →](05-material-och-materialval.md)

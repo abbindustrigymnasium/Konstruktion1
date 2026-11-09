@@ -70,7 +70,7 @@ Jämfört med PLA:s ungefärliga hållfasthet på 50 N/mm² är säkerheten myck
 
 Du lär dig något först när du jämför med verkligheten. **Provning** kan ske på tre sätt:
 
-- **Simulering** kör modellen i datorn, till exempel Stress Analysis i Inventor eller ett styrprogram i en simulator som turtlesim. Det är billigt och går snabbt, men visar bara det modellen innehåller.
+- **Simulering** kör modellen i datorn, till exempel en hållfasthetsanalys i Onshape, om du har tillgång till Simulation, eller ett styrprogram i en simulator som turtlesim. Det är billigt och går snabbt, men visar bara det modellen innehåller.
 - **Mätning** ger siffror på verkligheten.
 - **Funktionstest** visar om produkten gör det den ska, gång på gång.
 
@@ -130,42 +130,6 @@ Vid **redovisningen** berättar du varför konstruktionen ser ut som den gör. B
 5. Vad gör simulering bra och vad gör den dåligt?
 6. Varför är det värdefullt att dokumentera misslyckade försök?
 7. Vad är viktigt att tänka på när en sensor ska fästas på ett chassi?
-
-## Övningar
-
-**Grund 1.** En grupp mäter kastlängderna 2,10, 2,25, 2,05 och 2,20 m. Beräkna medelvärde och spridning.
-
-<details><summary>Svar</summary>
-
-Medelvärde 2,15 m. Spridning 0,20 m.
-
-</details>
-
-**Grund 2.** En robot berör 52 av 64 rutor. Beräkna täckningen.
-
-<details><summary>Svar</summary>
-
-81,25 %
-
-</details>
-
-**Vidare 3.** Teorin gav 2,4 m och medelvärdet från övning 1 är 2,15 m. Beräkna den procentuella avvikelsen.
-
-<details><summary>Svar</summary>
-
-(2,15 − 2,4) / 2,4 = −10 %
-
-</details>
-
-**Vidare 4.** Bilen kör med farten 0,50 m/s och stopptiden är 0,50 s. Hur långt rullar den?
-
-<details><summary>Svar</summary>
-
-25 cm
-
-</details>
-
-**Utmaning 5.** Planera ett test för en konstruktion du bygger. Ange vad som ska mätas, hur många gånger, vilken variabel du ändrar och vilka resultat som skulle få dig att ändra konstruktionen.
 
 ## Koppling till projektet
 

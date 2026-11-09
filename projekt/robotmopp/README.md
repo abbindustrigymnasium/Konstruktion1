@@ -15,7 +15,7 @@ Robotmoppen är Driverbot 2.0: en ESP8266-bil som styrs från ROS2 på datorn vi
 
 **Kapitel som förbereder**
 
-- [Kapitel 3: CAD i Inventor](../../kapitel/03-cad-i-inventor.md)
+- [Kapitel 3: CAD i Onshape](../../kapitel/03-cad-i-onshape.md)
 - [Kapitel 4: Ritningar, standarder och normer](../../kapitel/04-ritningar-standarder.md)
 - [Kapitel 9: Vridning och överföring av effekt](../../kapitel/09-vridning-effekt.md), avsnittet om drivaxeln
 - [Kapitel 10: Prototyp, komponenter, provning och dokumentation](../../kapitel/10-prototyp-komponenter-dokumentation.md)
@@ -102,6 +102,6 @@ Du bedöms på hur väl du använder ROS2 och verktygen, hur systematiskt du utv
 ## Tips
 
 - Mät dina egna komponenter med skjutmått innan du bestämmer mått i CAD.
-- Gör en sammanställning i Inventor med enkla modeller av komponenterna för att se om allt får plats.
+- Gör en sammanställning i Onshape med enkla modeller av komponenterna för att se om allt får plats.
 - Provkör chassit med hjulen i luften första gången.
 - Skriv ner vilka lösningar du ändrade och varför. Den ändringslistan är en del av dokumentationen.
