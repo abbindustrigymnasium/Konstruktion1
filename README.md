@@ -2,6 +2,10 @@
 
 Här lär du dig hur en konstruktion går från idé och skiss till en fungerande produkt. Du arbetar med CAD i Inventor, ritningar och standarder, väljer material och beräknar hur mycket en detalj tål. Kunskaperna använder du i praktiska projekt, från en katapult till chassit på en robotmopp. Kursen har kurskoden KONR1000X och omfattar 100 poäng.
 
+## Kurspresentation
+
+En översikt över kursen, dess delar och projekt: [Konstruktion 1 - Kurspresentation.pptx](Konstruktion%201%20-%20Kurspresentation.pptx)
+
 ## Så använder du boken
 
 Läs kapitlen i ordning, de följer kursens projekt. Varje kapitel har genomräknade exempel, begrepp, frågor att testa dig själv med och övningar märkta **Grund**, **Vidare** och **Utmaning**. Svaren på räkneuppgifterna hittar du under "Svar", men försök räkna själv först. Under varje projekt finns en egen sida med vad du ska göra och hur du bedöms.
