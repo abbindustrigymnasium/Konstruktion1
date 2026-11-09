@@ -144,15 +144,6 @@ d = √(4 · 62,5 / π) = 8,9 mm     → välj till exempel 10 mm
 - **Skjuvspänning τ:** spänning parallell med ytan.
 - **Enskärigt/tvåskärigt förband:** förband där ett respektive två tvärsnitt skjuvas.
 
-## Testa dig själv
-
-1. Varför använder man säkerhetsfaktorer?
-2. Vad är skillnaden mellan nS och nB?
-3. Beskriv stegen när du dimensionerar ett dragstag.
-4. Varför väljer man inte alltid exakt den beräknade diametern?
-5. Vilken yta skjuvas i en limfog? I en tapp i ett tvåskärigt förband?
-6. När använder du faktorn 0,6, och när ska du inte använda den?
-
 ## Koppling till projektet
 
 Kapitlet hör till momentet [Hållfasthetslära](../projekt/hallfasthetslara/README.md). Se filmen [Lektion 3: säkerhetsfaktor](../H%C3%A5llfasthetsl%C3%A4ra/07.%20H%C3%A5llf%20lektion%203%2C%20s%C3%A4kerhetsfaktor%20mm.mp4). Skjuvning återkommer när du dimensionerar axeln i [Katapult](../projekt/katapult/README.md).

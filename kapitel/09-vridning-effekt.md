@@ -128,15 +128,6 @@ Detta ger en känsla för vad bilen klarar. Med dessa antaganden räcker det fö
 - **Vinkelhastighet ω:** rotationshastighet i radianer per sekund.
 - **Utväxling:** förhållandet mellan varvtal in och varvtal ut i en växel.
 
-## Testa dig själv
-
-1. Var i en axel är spänningen störst vid vridning?
-2. Varför är ett rör ett effektivt sätt att överföra vridmoment?
-3. Vad är sambandet mellan Wv och Wb för ett cirkulärt tvärsnitt?
-4. Vad händer med vridmomentet om effekten är konstant men varvtalet halveras?
-5. Vad ändrar en växel, och vad ändrar den inte?
-6. Varför är det rimligt att räkna med 0,6 · Re för vridning?
-
 ## Koppling till projektet
 
 Kapitlet avslutar teorin i [Hållfasthetslära](../projekt/hallfasthetslara/README.md). Filmerna [Lektion 7: vridning](../H%C3%A5llfasthetsl%C3%A4ra/11.0%20H%C3%A5llf%20lektion%207%20Vridning.mp4), [Vridning samt uppgift](../H%C3%A5llfasthetsl%C3%A4ra/11.1%20Vridning%20samt%20uppg%2082.mp4) och [Överföring av effekt](../H%C3%A5llfasthetsl%C3%A4ra/12.%20%C3%96verf%C3%B6ring%20av%20effekt%20samt%20uppg%2068.mp4) går igenom beräkningarna. Lösningar finns i [Lösningar 67-87](../H%C3%A5llfasthetsl%C3%A4ra/L%C3%B6sningar%2067-87.pdf). Motorer och drivning kommer du i kontakt med igen i [Robotmopp](../projekt/robotmopp/README.md).

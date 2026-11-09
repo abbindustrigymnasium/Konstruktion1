@@ -93,15 +93,6 @@ Kvalitet betyder att produkten håller det som lovats. Kvalitet handlar också o
 - **Krypning:** långsam deformation under konstant last.
 - **Livscykel:** en produkts väg från råvara och tillverkning till användning och avfall.
 
-## Testa dig själv
-
-1. Vad är skillnaden mellan hållfasthet och styvhet?
-2. Varför är aluminium ofta populärt i fordon?
-3. Varför används T-spårsprofiler av aluminium och inte av stål i maskinbyggsatser?
-4. Vad är krypning och i vilket material är det särskilt viktigt att tänka på det?
-5. Ge två sätt som materialval påverkar en produkts miljöpåverkan.
-6. Hur kan valet av tillverkningsmetod hänga ihop med hur många produkter som ska göras?
-
 ## Koppling till projektet
 
 I [Katapult](../projekt/katapult/README.md) väljer du material, motiverar valet och skriver en materiallista. I [Smådjursställning](../projekt/smadjursstallning/README.md) arbetar du med aluminiumprofiler, och i [Hållfasthetslära](../projekt/hallfasthetslara/README.md) använder du materialvärden för att dimensionera.

@@ -95,15 +95,6 @@ Skriv ner vad ni gör medan ni gör det. En skiss med datum och några ord om va
 - **Iteration:** att gå tillbaka, ändra och prova igen.
 - **Prototyp:** första fysiska versionen som används för att testa en lösning.
 
-## Testa dig själv
-
-1. Varför är det viktigt att krav går att mäta eller kontrollera?
-2. Vad är skillnaden mellan ett måste-krav och ett önskemål?
-3. Varför ska man ta fram flera koncept i stället för att bygga första idén?
-4. Vad kan en beslutsmatris hjälpa till med, och vad kan den inte göra?
-5. Ge ett exempel på när miljö och kostnad står mot varandra i en konstruktion.
-6. Beskriv ett tillfälle då ett senare steg i processen kan tvinga dig att ändra ett tidigare.
-
 ## Koppling till projektet
 
 Hela processen använder du i [Katapult](../projekt/katapult/README.md), där du går från skisser och beslutsmatris till bygge och test. Samma arbetssätt återkommer i [Bygg 2.0](../projekt/bygg-2-0/README.md), [Robotmopp](../projekt/robotmopp/README.md) och [Sort My Brick](../projekt/sort-my-brick/README.md).

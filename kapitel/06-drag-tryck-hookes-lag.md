@@ -147,16 +147,6 @@ Värdet ligger nära det som gäller för stål, så provstaven är sannolikt av
 - **Elasticitetsmodul E:** materialkonstant som beskriver styvhet.
 - **Hookes lag:** σ = E · ε, gäller i det elastiska området.
 
-## Testa dig själv
-
-1. Varför räknar man på spänning i stället för bara på kraft?
-2. Vad betyder det att ε saknar enhet?
-3. Vad händer med en stålstav om du belastar den över Re och sedan släpper?
-4. Varför använder man Rp0,2 för aluminium?
-5. Vad talar elasticitetsmodulen om för dig?
-6. Varför får Hookes lag bara användas i det elastiska området?
-7. Vilket problem kan uppstå för en lång, tunn pelare som belastas med tryck?
-
 ## Koppling till projektet
 
 Kapitlet täcker första delen av momentet [Hållfasthetslära](../projekt/hallfasthetslara/README.md). Stödet för lektionerna finns i filmerna [Intro](../H%C3%A5llfasthetsl%C3%A4ra/01.%20H%C3%A5llfasthetsl%C3%A4ra%20intro.mp4) och [Del 2: dragprov, töjning](../H%C3%A5llfasthetsl%C3%A4ra/06.%20H%C3%A5llf%20del%202%2C%20dragprov%2C%20t%C3%B6jning%20mm.mp4). Lösningar till kompendiet finns i [Lösningar 1-47](../H%C3%A5llfasthetsl%C3%A4ra/L%C3%B6sningar%201-47.pdf).

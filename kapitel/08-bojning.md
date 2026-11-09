@@ -159,15 +159,6 @@ Största momentet finns där tvärkraften byter tecken.
 - **Fritt upplagd:** balken vilar på stöd som tillåter vridning.
 - **Tvärkraft:** den kraft som verkar vinkelrätt mot balken i ett visst snitt.
 
-## Testa dig själv
-
-1. Varför är ett rör effektivare än en massiv stång med samma materialmängd?
-2. Var på en balk är spänningen störst vid böjning?
-3. Var uppstår det största momentet för en konsol?
-4. Vad händer med Wb om du fördubblar höjden på en rektangel?
-5. Varför måste du vara försiktig med enheterna Nm och Nmm?
-6. Vad visar tvärkraftsdiagrammet?
-
 ## Koppling till projektet
 
 Kapitlet hör till [Hållfasthetslära](../projekt/hallfasthetslara/README.md), och filmerna [Lektion 4](../H%C3%A5llfasthetsl%C3%A4ra/08.%20H%C3%A5llf%20lektion%204.mp4), [Lektion 5](../H%C3%A5llfasthetsl%C3%A4ra/09.%20H%C3%A5llf%20lektion%205.mp4) och [Lektion 6](../H%C3%A5llfasthetsl%C3%A4ra/10.%20H%C3%A5llf%20lektion%206.mp4) går igenom hur man räknar. Lösningar finns i [Lösningar 48-66](../H%C3%A5llfasthetsl%C3%A4ra/L%C3%B6sningar%2048-66.pdf). Tankesättet är användbart för profilerna i [Smådjursställning](../projekt/smadjursstallning/README.md) och för kastarmen i [Katapult](../projekt/katapult/README.md).

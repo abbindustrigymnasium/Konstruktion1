@@ -114,16 +114,6 @@ Det går att dimensionera med hjälp av simulering, men resultatet blir aldrig b
 - **Standard content:** Onshapes bibliotek över standardkomponenter.
 - **Version:** ett sparat, namngivet läge av dokumentet som inte går att ändra.
 
-## Testa dig själv
-
-1. Vad innebär det att en CAD-modell är parametrisk?
-2. Varför ska en skiss vara helt bestämd innan du gör en Extrude?
-3. Vad händer med din ritning när du ändrar ett mått i delen?
-4. Vilken mate passar för en axel som ska kunna rotera i ett hål, och vilken passar för två delar som ska sitta fast?
-5. När lönar det sig att skapa en underassembly?
-6. Hur gör du för att läraren ska se exakt det läge du vill lämna in?
-7. Varför räcker inte en simulering som enda kontroll?
-
 ## Koppling till projektet
 
 I [Katapult](../projekt/katapult/README.md) modellerar du ram, arm och axel och sätter ihop dem. I [Smådjursställning](../projekt/smadjursstallning/README.md) arbetar du med färdiga profiler och en stor assembly och delar dokumentet med läraren. Kunskaperna behövs också i [Robotmopp](../projekt/robotmopp/README.md) när du konstruerar chassit.

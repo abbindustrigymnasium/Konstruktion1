@@ -121,16 +121,6 @@ Vid **redovisningen** berättar du varför konstruktionen ser ut som den gör. B
 - **Repeterbarhet:** att en produkt ger samma resultat gång efter gång.
 - **Chassi:** bärande grundstruktur i en maskin eller bil.
 
-## Testa dig själv
-
-1. Vilka frågor bör du ställa innan du väljer en komponent?
-2. Varför ska du mäta själva komponenten även om det finns ett datablad?
-3. Vad är poängen med att bygga en prototyp som inte är snygg?
-4. Varför ska du ändra en sak i taget vid test?
-5. Vad gör simulering bra och vad gör den dåligt?
-6. Varför är det värdefullt att dokumentera misslyckade försök?
-7. Vad är viktigt att tänka på när en sensor ska fästas på ett chassi?
-
 ## Koppling till projektet
 
 Kapitlet används i [Bygg 2.0](../projekt/bygg-2-0/README.md), där budget, prototyp och redovisning står i fokus, och i [Robotmopp](../projekt/robotmopp/README.md), där chassits konstruktion, kalibrering och mätning av täckning är centrala. I [Sort My Brick](../projekt/sort-my-brick/README.md) tränar du experiment, test och dokumentation. Det gäller också [Katapult](../projekt/katapult/README.md) när ni testar kast och jämför med beräkningarna.

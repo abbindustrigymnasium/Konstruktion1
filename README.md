@@ -8,7 +8,7 @@ En översikt över kursen, dess delar och projekt: [Konstruktion 1 - Kurspresent
 
 ## Så använder du boken
 
-Läs kapitlen i ordning, de följer kursens projekt. Varje kapitel har genomräknade exempel, begrepp och frågor att testa dig själv med. Under varje projekt finns en egen sida med vad du ska göra och hur du bedöms.
+Läs kapitlen i ordning, de följer kursens projekt. Varje kapitel har genomräknade exempel och begrepp. Under varje projekt finns en egen sida med vad du ska göra och hur du bedöms.
 
 Materialvärden i boken är ungefärliga och hämtade från öppna källor. Tabellsamlingen som delas ut i klassrummet är den som gäller på provet.
 

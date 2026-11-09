@@ -117,15 +117,6 @@ Standardblad är ofta skyddade och säljs av standardiseringsorganisationerna. D
 - **Standard:** gemensamma regler som tagits fram i samförstånd.
 - **SIS, CEN, ISO:** svensk, europeisk och internationell organisation för standardisering.
 
-## Testa dig själv
-
-1. Varför behövs standarder? Ge ett vardagsexempel.
-2. Vad är skillnaden på projektionsmetod 1 och 3?
-3. Varför skriver du inte ut enheten "mm" vid varje mått?
-4. Varför utgår man ofta från samma referens när man måttsätter?
-5. Vad är skillnaden mellan en standard och en lag?
-6. Vad betyder det att en standard är märkt SS-EN ISO?
-
 ## Koppling till projektet
 
 I [Katapult](../projekt/katapult/README.md) tar du fram en ritning som används i verkstaden, och i [Smådjursställning](../projekt/smadjursstallning/README.md) utgår du från ritningar och standardiserade profiler. Passningar för axlar och fästen använder du när du konstruerar chassit i [Robotmopp](../projekt/robotmopp/README.md).

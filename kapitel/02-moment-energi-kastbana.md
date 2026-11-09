@@ -129,15 +129,6 @@ Fråga dig alltid om svaret verkar rimligt. Modellen ovan bortser från luftmots
 - **Rörelseenergi:** energi hos en massa i rörelse, Ek = 0,5 · m · v².
 - **Verkningsgrad:** den andel av tillförd energi som blir nyttig energi.
 
-## Testa dig själv
-
-1. Varför går det lättare att öppna en dörr om du trycker långt från gångjärnen?
-2. Vad byter du mot vad när du gör kastarmen längre?
-3. Varför når inte all lagrad energi fram till kulan?
-4. Vad händer med den teoretiska kastlängden om kulans fart fördubblas?
-5. Vid vilken vinkel kastar du längst från markhöjd om luftmotståndet försummas? Varför?
-6. Ge två skäl till att en verklig katapult kan kasta kortare än formeln säger.
-
 ## Koppling till projektet
 
 I [Katapult](../projekt/katapult/README.md) räknar du på hävarmsförhållande, lagrad energi och kastbana innan du bestämmer huvudmåtten. När ni testat katapulten jämför ni resultaten med era beräkningar.
