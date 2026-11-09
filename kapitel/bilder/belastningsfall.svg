@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" width="720" height="480" font-family="Helvetica, Arial, sans-serif" font-size="14" role="img" aria-labelledby="t">
+  <title id="t">De fyra enkla belastningsfallen vid böjning med största böjmoment</title>
+  <rect width="720" height="480" fill="#ffffff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#b91c1c"/></marker>
+  </defs>
+  <!-- Fall 1 -->
+  <g transform="translate(20,20)">
+    <text x="0" y="16" font-weight="bold" fill="#222">Fall 1: fast inspänd, punktlast i änden</text>
+    <rect x="10" y="50" width="16" height="90" fill="#888"/>
+    <rect x="26" y="88" width="270" height="14" fill="#2b6cb0"/>
+    <line x1="290" y1="50" x2="290" y2="86" stroke="#b91c1c" stroke-width="3" marker-end="url(#a)"/>
+    <text x="298" y="58" fill="#b91c1c">F</text>
+    <text x="150" y="128" text-anchor="middle" fill="#222">L</text>
+    <text x="26" y="176" fill="#222" font-size="16">Mb max = F · L  (vid infästningen)</text>
+  </g>
+  <!-- Fall 2 -->
+  <g transform="translate(370,20)">
+    <text x="0" y="16" font-weight="bold" fill="#222">Fall 2: fast inspänd, utbredd last</text>
+    <rect x="10" y="50" width="16" height="90" fill="#888"/>
+    <rect x="26" y="88" width="270" height="14" fill="#2b6cb0"/>
+    <g stroke="#b91c1c" stroke-width="2" marker-end="url(#a)">
+      <line x1="40" y1="55" x2="40" y2="86"/><line x1="80" y1="55" x2="80" y2="86"/><line x1="120" y1="55" x2="120" y2="86"/><line x1="160" y1="55" x2="160" y2="86"/><line x1="200" y1="55" x2="200" y2="86"/><line x1="240" y1="55" x2="240" y2="86"/><line x1="280" y1="55" x2="280" y2="86"/>
+    </g>
+    <text x="150" y="47" text-anchor="middle" fill="#b91c1c">total last F</text>
+    <text x="150" y="128" text-anchor="middle" fill="#222">L</text>
+    <text x="26" y="176" fill="#222" font-size="16">Mb max = F · L / 2  (vid infästningen)</text>
+  </g>
+  <!-- Fall 3 -->
+  <g transform="translate(20,260)">
+    <text x="0" y="16" font-weight="bold" fill="#222">Fall 3: fritt upplagd, punktlast på mitten</text>
+    <rect x="26" y="88" width="270" height="14" fill="#2b6cb0"/>
+    <polygon points="36,102 22,128 50,128" fill="#888"/><polygon points="286,102 272,128 300,128" fill="#888"/>
+    <line x1="161" y1="50" x2="161" y2="86" stroke="#b91c1c" stroke-width="3" marker-end="url(#a)"/>
+    <text x="170" y="58" fill="#b91c1c">F</text>
+    <text x="161" y="124" text-anchor="middle" fill="#222">L</text>
+    <text x="26" y="166" fill="#222" font-size="16">Mb max = F · L / 4  (under lasten)</text>
+  </g>
+  <!-- Fall 4 -->
+  <g transform="translate(370,260)">
+    <text x="0" y="16" font-weight="bold" fill="#222">Fall 4: fritt upplagd, utbredd last</text>
+    <rect x="26" y="88" width="270" height="14" fill="#2b6cb0"/>
+    <polygon points="36,102 22,128 50,128" fill="#888"/><polygon points="286,102 272,128 300,128" fill="#888"/>
+    <g stroke="#b91c1c" stroke-width="2" marker-end="url(#a)">
+      <line x1="40" y1="55" x2="40" y2="86"/><line x1="80" y1="55" x2="80" y2="86"/><line x1="120" y1="55" x2="120" y2="86"/><line x1="160" y1="55" x2="160" y2="86"/><line x1="200" y1="55" x2="200" y2="86"/><line x1="240" y1="55" x2="240" y2="86"/><line x1="280" y1="55" x2="280" y2="86"/>
+    </g>
+    <text x="150" y="47" text-anchor="middle" fill="#b91c1c">total last F</text>
+    <text x="161" y="124" text-anchor="middle" fill="#222">L</text>
+    <text x="26" y="166" fill="#222" font-size="16">Mb max = F · L / 8  (på mitten)</text>
+  </g>
+</svg>
